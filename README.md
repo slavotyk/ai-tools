@@ -5,7 +5,7 @@ Explore AI Dude's curated AI tools list for innovative solutions and insights in
 
 # Curated AI tools Directory
 
-[Check our AI Dude website](https://aidude.info)
+Chech our [AI Dude](https://aidude.info) website!
 
 ## Discover Curated AI Tools
 
