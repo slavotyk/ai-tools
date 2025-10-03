@@ -115,6 +115,8 @@ Connect with the AiDude community like never before through our exclusive Discor
 
 ## Submit Your AI Tool
 
-Are you an innovator with an AI tool that deserves recognition? At AiDude, we’re always on the lookout for groundbreaking tools and technologies to feature on our platform. If you believe your AI solution offers something unique and valuable, we invite you to submit it for consideration.
+Are you an innovator with an AI tool that deserves recognition? At AI Dude, we’re always on the lookout for groundbreaking tools and technologies to feature on our platform. If you believe your AI solution offers something unique and valuable, we invite you to submit it for consideration.
 
 Our mission is to showcase the best in AI, and we’re excited to explore new tools that can benefit our community. By submitting your tool, you’ll gain exposure to a dedicated audience of AI enthusiasts, developers, and businesses looking for the next big thing in technology.
+
+You can [submit your AI tool to AI Dude listing](https://aidude.info/submit-your-tool) here.
