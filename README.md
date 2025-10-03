@@ -5,15 +5,7 @@ Explore AI Dude's curated AI tools list for innovative solutions and insights in
 
 # Curated AI tools Directory
 
-**Your One-Stop place for AI Tools and Services**
-
-## Best Pick by AI Dude
-
-## Recently Added Tools
-
-## Community Pick
-
-Top AI tools chosen by our community, based on bookmarks
+[Check our AI Dude website](https://www.aidude.com)
 
 ## Discover Curated AI Tools
 
