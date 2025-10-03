@@ -21,19 +21,19 @@ Our website explores AI tools categorized by their specific functions, such as w
 
 ### Text Generation
 
-AI tools for text generation are designed to help users create written content quickly and efficiently. These tools leverage advanced natural language processing models to produce high-quality, coherent, and contextually accurate text. Whether you're drafting a blog post, rewriting content, generating creative stories, or crafting professional emails, text generation tools can significantly streamline your workflow.
+[AI tools for text generation](https://aidude.info/categories/copywriting) are designed to help users create written content quickly and efficiently. These tools leverage advanced natural language processing models to produce high-quality, coherent, and contextually accurate text. Whether you're drafting a blog post, rewriting content, generating creative stories, or crafting professional emails, text generation tools can significantly streamline your workflow.
 
 ### Image Generation and Editing
 
-Image AI tools enable users to create, edit, and optimize visuals without the need for advanced design skills. Whether you're generating original artwork, editing photos, or designing professional logos, these tools use AI-driven features to make the process intuitive and efficient.
+[Image AI tools](https://aidude.info/categories/image-generator) enable users to create, edit, and optimize visuals without the need for advanced design skills. Whether you're generating original artwork, editing photos, or designing professional logos, these tools use AI-driven features to make the process intuitive and efficient.
 
 ### Coding and Development
 
-Coding AI tools are designed to assist developers in writing, debugging, and optimizing code. These tools support a range of programming languages, low-code/no-code solutions, and even advanced features like SQL generation, making development more accessible and efficient.
+[Coding AI tools](https://aidude.info/categories/developer-tools) are designed to assist developers in writing, debugging, and optimizing code. These tools support a range of programming languages, low-code/no-code solutions, and even advanced features like SQL generation, making development more accessible and efficient.
 
 ### Audio Processing
 
-AI tools for audio processing are perfect for creating, editing, and enhancing sound. Whether you're a musician, podcaster, or content creator, these tools offer advanced features like text-to-speech, audio editing, and transcription to simplify your workflow.
+AI tools for audio processing are perfect for creating, editing, and enhancing sound. Whether you're a musician, podcaster, or content creator, these tools offer advanced features like [text-to-speech](https://aidude.info/categories/text-to-speech), audio editing, and transcription to simplify your workflow.
 
 ### Video Creation and Editing
 
